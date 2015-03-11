@@ -1,0 +1,27 @@
+{
+  "name": "translate-font-weight",
+  "description": "a tiny module that translates font-weight names into appropriate integer values",
+  "version": "1.0.0",
+  "author": "Michael Rhodes",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/translate-font-weight/issues"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "homepage": "https://github.com/michaelrhodes/translate-font-weight",
+  "keywords": [
+    "font-weight",
+    "number",
+    "os/2"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/translate-font-weight"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  }
+}
